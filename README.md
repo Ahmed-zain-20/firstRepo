@@ -1,4 +1,4 @@
 # firstRepo
-first repo to c heck git commands
+first repo to check git commands
 
 ## project changes
